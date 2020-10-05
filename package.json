@@ -1,0 +1,30 @@
+{
+	"name": "@coutodev/jquery-linkit",
+	"version": "0.1.0",
+	"description": "LinkIt is a simple jQuery plugin to attach links to elements",
+	"keywords": [
+		"link",
+		"element",
+		"ecosystem:jquery",
+		"jquery-plugin"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CoutoDev/jquery.linkit"
+	},
+	"author": {
+		"name": "Vitor Couto",
+		"url": "https://twitter.com/CoutoDev"
+	},
+	"license": "MIT",
+	"maintainers": [
+		{
+			"name": "Vitor Couto",
+			"email": "c.fvitor@yahoo.com.br",
+			"url": "https://twitter.com/CoutoDev"
+		}
+	],
+	"dependencies": {
+		"jquery": "^3.5.1"
+	}
+}
